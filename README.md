@@ -1,3 +1,4 @@
+Файл в figma: https://www.figma.com/board/ioNIRlNIJUMqen3nc6PFis/CHE_JAM?node-id=0-1&t=qyHE4IifWfv1cZyX-1
 
 О проекте: https://krisssstin-ka.github.io/che-govorish/about
 
